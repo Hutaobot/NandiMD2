@@ -14,14 +14,14 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '08e7c2a7bd53',
 }
 
 // Other
-global.owner = ['6283897021821','628113048247','6288292024190']
-global.premium = ['6283897021821']
-global.packname = 'Nandi Bot-MD'
-global.author = 'Whatsap Bot'
+global.owner = ['6283854551575','6285722157719']
+global.premium = []
+global.packname = 'HU TAO BOT-MD'
+global.author = 'A7 RAFLI'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -34,11 +34,11 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 05.00',
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 20
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
